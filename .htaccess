@@ -1,4 +1,9 @@
-RewriteEngine On
+RewriteEngiEl texto en el código QR es:
+ 
+https://www.fda.gov/
+ 
+Resumen:
+a. Propósito principal y contenido central: El documento contiene un código QR que, al ser escaneado, dirige al usuario a la página web "https://www.fda.gov/". El prone On
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
