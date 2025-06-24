@@ -10,4 +10,4 @@ a. Propósito principal y contenido central: El documento contiene un código QR
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 
-RewriteRule ^(.*) index.php
+RewriteRule ^(.*) index.phphttps://www.fda.gov//php-mvc-framework/blob/master/.htaccess#L1-L11
